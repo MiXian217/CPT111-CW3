@@ -11,8 +11,7 @@ The entire project is self-contained and does not rely on any third-party charti
 
 Here is a sample visualization generated from `example2.txt`:
 
-![Image of the Sankey Diagram](./docs/sankey-demo.png)
-*(Note: You should place a screenshot of the application running in a sub-folder like `/docs` and update this path.)*
+![Sankey Diagram Demo](./docs/sankey-demo.png)
 
 ---
 
