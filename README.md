@@ -1,4 +1,4 @@
-# Java Sankey Diagram Visualizer
+# Sankey Diagram Visualizer
 
 ![Java](https://img.shields.io/badge/Language-Java-orange.svg)
 ![JavaFX](https://img.shields.io/badge/Framework-JavaFX-blue.svg)
@@ -11,7 +11,7 @@ The entire project is self-contained and does not rely on any third-party charti
 
 Here is a sample visualization generated from `example2.txt`:
 
-![Sankey Diagram Demo](./docs/sankey-demo.png)
+![Sankey Diagram Demo](./images/sankey-demo.png)
 
 ---
 
